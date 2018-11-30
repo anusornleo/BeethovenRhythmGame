@@ -1,2 +1,6 @@
 # BeethovenRhythmGame
 This is a project of OOP
+...
+This Project isn't finish.
+...
+This Project use a libGDX. If you don't have libGdx. Download https://libgdx.badlogicgames.com/download.html
